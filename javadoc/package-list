@@ -2,6 +2,5 @@ org.usefultoys.slf4j
 org.usefultoys.slf4j.internal
 org.usefultoys.slf4j.meter
 org.usefultoys.slf4j.report
-org.usefultoys.slf4j.tools
 org.usefultoys.slf4j.utils
 org.usefultoys.slf4j.watcher
